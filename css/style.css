@@ -1,0 +1,96 @@
+#contenedor{
+  width: 32%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#fondo{
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
+  -webkit-transform-origin: center center;
+  transform-origin: center center;
+}
+
+#Huella6{
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s;
+  -webkit-transform-origin: center center;
+  transform-origin: center center;
+}
+
+#Huella5{
+  -webkit-animation-delay: 1.3s;
+  animation-delay: 1.3s;
+  -webkit-transform-origin: center center;
+  transform-origin: center center;
+}
+
+#Huella4{
+  -webkit-animation-delay: 1.6s;
+  animation-delay: 1.6s;
+  -webkit-transform-origin: center center;
+  transform-origin: center center;
+}
+
+#Huella3{
+  -webkit-animation-delay: 1.9s;
+  animation-delay: 1.9s;
+  -webkit-transform-origin: center center;
+  transform-origin: center center;
+}
+
+#Huella2{
+  -webkit-animation-delay: 2.2s;
+  animation-delay: 2.2s;
+  -webkit-transform-origin: center center;
+  transform-origin: center center;
+}
+
+#Huella1{
+  -webkit-animation-delay: 2.5s;
+  animation-delay: 2.5s;
+  -webkit-transform-origin: center center;
+  transform-origin: center center;
+}
+
+#Titular{
+  -webkit-animation-delay: 3s;
+  animation-delay: 3s;
+  -webkit-transform-origin: center center;
+  transform-origin: center center;
+}
+
+#colgando{
+  -webkit-animation-delay: 4s;
+  animation-delay: 4s;
+  -webkit-transform-origin: center center;
+  transform-origin: center center;
+}
+
+#comedero{
+  -webkit-animation-delay: 4.3s;
+  animation-delay: 4.3s;
+  -webkit-transform-origin: center center;
+  transform-origin: center center;
+}
+
+#gato2{
+  -webkit-animation-delay: 4.6s;
+  animation-delay: 4.6s;
+  -webkit-transform-origin: center center;
+  transform-origin: center center;
+}
+
+#mirando{
+  -webkit-animation-delay: 5s;
+  animation-delay: 5s;
+  -webkit-transform-origin: center center;
+  transform-origin: center center;
+}
+
+#Gato{
+  -webkit-animation-delay: 5.5s;
+  animation-delay: 5.5s;
+  -webkit-transform-origin: center center;
+  transform-origin: center center;
+}
